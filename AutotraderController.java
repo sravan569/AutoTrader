@@ -3,7 +3,7 @@ package Autotraders;
 public class AutotraderController {
 int quesID=0;
 float max_Points=0;
-float max_Percentage=0;
+float max_Percentage=0;//percentage
 float[] ques_History;
 int[] questions_AT;
 boolean default_Outcome=false;
